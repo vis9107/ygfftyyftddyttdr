@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(to bottom, #200092, #2b0153); /* De azul para roxo */
+    height: 100vh; /* Garante que o gradiente preencha a tela */
+    margin: 0;
+}
+
+p {
+    border:  ridge 2px rgb(0, 238, 255);
+    border-radius: 100px;
+    padding: 10px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+iframe {
+    border: dashed 2px rgb(0, 238, 255);
+    padding: 10px;
+    font-size: 32px;
+    color: rgb(0, 238, 255);
+}
